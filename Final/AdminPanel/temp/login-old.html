@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="assets/css/loginform.css">
+</head>
+<body>
+	<div class="login-page">
+		<form class="form">
+            <label for="email">Email</label>
+			<input type="email" id="email" placeholder="Email" oninput="formvalid()">
+			<label for="pass">Password</label>
+            <input type="password" id="pass" placeholder="Password" oninput="formvalid()">
+			<button type="button" id="login-button" onclick="login()">Login</button>
+			<p class="message">Forgot your <a href="#">password</a></p>
+		</form>
+	</div>
+</body>
+</html>
