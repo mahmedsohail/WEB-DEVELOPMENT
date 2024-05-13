@@ -22,4 +22,4 @@ It also has an admin panel that is not fully connected to the wesite except the 
 
 _ALL THE CONTACT DETAILS USED IN THE HEADER FOOTER, SITE TITLE, ADREESES, SOCIAL MEDIA LINKS ETC ARE FULLY DYNAMIC_
 
-_For any quries an suggestions please contact at **mahmedsohail3@gmail.com**_
+_For any queries an suggestions please contact at **mahmedsohail3@gmail.com**_
